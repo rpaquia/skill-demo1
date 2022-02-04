@@ -1,1 +1,5 @@
-public class SkillDemo1 {} //will edit in vscode
+public class SkillDemo1 {
+    public static int multiply(int a, int b) {
+        return a * b;
+    }
+}
